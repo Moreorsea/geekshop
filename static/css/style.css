@@ -1661,6 +1661,7 @@ td:first-child {
 	height: 370px;
 	width: 370px;
 	position: relative;
+	overflow: hidden;
 }
 .related-products .block:nth-child(3n) {
 	margin-right: 0px;
